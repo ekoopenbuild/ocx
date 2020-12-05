@@ -10,8 +10,8 @@ To learn about features and benefits of the program, please visit [ekoopensource
 
 ### OCX Grids
 The EOS operates 2 **grids**:
-1. **Sandbox (Development) Grid**: This is where all training and developmental activities take place, mostly by software developers who want to start building for the _Live_ grid. This **grid** is open to the public but requires registration. To connect with the Sandbox **grid**, [get started here](https://doc.com)
-2. **Live (Production) Grid**: This is the primary data grid that securely and efficiently facilitates data movement between government, public and private entities. This grid is not open to the public and requires due registration, verification and approval. To connect with the Live grid, [read more here](https://doc.com)
+1. **Sandbox (Development) Grid**: This is where all training and developmental activities take place, mostly by software developers who want to start building for the _Live_ grid. This **grid** is open to the public but requires registration. To connect with the Sandbox **grid**, [get started here](https://github.com/ekoopensource/ocx/wiki/Chapter-1e:-Sandbox-Grid)
+2. **Live (Production) Grid**: This is the primary data grid that securely and efficiently facilitates data movement between government, public and private entities. This grid is not open to the public and requires due registration, verification and approval. To connect with the Live grid, [read more here](https://github.com/ekoopensource/ocx/wiki/Chapter-1f:-Live-Grid)
 
 To learn more about OCX grids and nodes, see the [documentation](https://github.com/ekoopensource/ocx/wiki).
 

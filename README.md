@@ -17,12 +17,14 @@ To learn more about OCX grids and nodes, see the [documentation](https://github.
 
 
 ### Getting Started
-To start building for the EOS, you are free to [experiment with your own local grid](https://github.com/ekoopensource/ocx/wiki/Chapter-1c:-Setting-Up-Grids) OR [connect to the EOS Sandbox grid](https://doc.com/). Whichever you choose, you'll can continue with any of the following 3 scenarios:
+To start building for the EOS, you are free to [experiment with your own local grid](https://github.com/ekoopensource/ocx/wiki/Chapter-1c:-Setting-Up-Grids) OR [connect to the EOS Sandbox grid](https://github.com/ekoopensource/ocx/wiki/Chapter-1e:-Sandbox-Grid). Whichever you choose, you'll can continue with any of the following 3 scenarios:
 - Learn how to [operate a **Developer Node**](https://github.com/ekoopensource/ocx/wiki/Chapter-2d:-Operating-Nodes) 
 - Learn how to [operate a **Corporate Node**](https://github.com/ekoopensource/ocx/wiki/Chapter-2d:-Operating-Nodes) 
 - Learn how to [operate a **Public Node**](https://github.com/ekoopensource/ocx/wiki/Chapter-2d:-Operating-Nodes) 
 
 ### Support or Contact
+For developer guidance, see the [documentation](https://github.com/ekoopensource/ocx/wiki).
+
 Have any queries? Send an email to **support@ekoopensource.com** or [visit the website](https://ekoopensource.com) and we’ll help you sort it out.
 
 ***

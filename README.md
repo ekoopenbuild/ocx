@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Eko Open Source (EOS) Implementation of the OctopusX (OCX) Framework
 
-You can use the [editor on GitHub](https://github.com/ekoopenbuild/ocx/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The **Eko Open Source** encourages developers to build civic apps, software and tools that power the Lagos Stage Smart City Initiative. These apps need to be interconnected, interaoperable and able to communicate  - using a common open protocol, along a common data highway infrastructure. This is where the OctopusX (OCX) Framework comes handy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The OctopusX (OCX) Framework powers a **grid** (or collection) of _interconnected_ **node**. Each node can be a public data service, a private/corporate node or a developer terminal.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The EOS Program
+To learn about features and benefits of the program, please visit [ekoopensource.com](https://ekoopensource.com).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### OCX Grids
+The EOS operates 2 grids:
+1. **Sandbox (Development) Grid**: This is where all training and developmental activities take place, mostly by software developers who want to start building for the Live grid. This grid is open to the public but requires registration. To connect with the Sandbox grid, get started here
+2. **Live (Production) Grid**: This is the primary data grid that securely and efficiently facilitates data movement between government, public and private entities. This grid is not open to the public and requires due registration, verification and approval. To connect with the Live grid, read more here
 
-- Bulleted
-- List
+To learn more about OCX grids and nodes, see the [documentation](https://doc.com/).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ekoopenbuild/ocx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Getting Started
+To start building for the EOS, you are free to [start your own grid](https://doc.com/) OR [connect the sandbox grid](https://doc.com/). Whichever you choose, you'll can then choose any of the following 3 scenarios:
+- Learn how to [operate a **Developer Node**](https://doc.com/) 
+- Learn how to [operate a **Corporate Node**](https://doc.com/) 
+- Learn how to [operate a **Public Node**](https://doc.com/) 
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have any queries? Send an email to **support@ekoopensource.com** or [visit](https://ekoopensource.com) and we’ll help you sort it out.

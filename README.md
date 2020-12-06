@@ -1,7 +1,7 @@
 ## Welcome to Eko Open Source Implementation of the OctopusX Framework
 The **Eko Open Source** (EOS) encourages developers to build civic apps, software and tools that power the Lagos State Smart City. These apps need to be interconnected, interaoperable and able to communicate  - using a common open protocol, along a common data highway infrastructure. This is where the **OctopusX Framework** (OCX) comes handy.
 
-The **OctopusX Framework** (OCX) powers a _grid_ (or collection) of _interconnected nodes_. Each _node_ can represent a public data service, a private app or a developer terminal. This _grid_ is also referred to as the **Eko Data Grid** (EDG).
+The **OctopusX Framework** (OCX) powers a _grid_ (or collection) of _interconnected nodes_. Each _node_ can represent a public data service, a private app or a developer terminal. This _grid_ is also referred to as the **Eko Data Grid** (EDG). To learn more about grids, nodes & technical implementation, see the [OCX documentation](https://github.com/ekoopensource/ocx/wiki)
 
 
 ### The EOS Program
@@ -12,8 +12,6 @@ To learn about features and benefits of the program, please visit [ekoopensource
 The EOS operates 2 **grids**:
 1. **Sandbox Grid**: This is where all training and developmental activities take place, mostly by software developers who want to start building for the _Live_ grid. This **grid** is open to the public but requires registration. To connect with the Sandbox **grid**, [get started here](https://github.com/ekoopensource/ocx/wiki/Chapter-1e:-Sandbox)
 2. **Eko Data Grid**: This is the primary data grid that securely and efficiently facilitates data movement between government, public and private entities. This grid is not open to the public and requires due registration, verification and approval. To connect with the Live grid, [read more here](https://github.com/ekoopensource/ocx/wiki/Chapter-1f:-EDG)
-
-To learn more about grids and nodes, see the [OCX documentation](https://github.com/ekoopensource/ocx/wiki).
 
 
 ### Getting Started
